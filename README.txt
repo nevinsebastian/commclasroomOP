@@ -1,4 +1,4 @@
-Community Classroom ok da OP
-Shivam first contribution
+Community Classroom ok
+Amrutansu first contribution
 this is used to make pull command
 use upstream button
